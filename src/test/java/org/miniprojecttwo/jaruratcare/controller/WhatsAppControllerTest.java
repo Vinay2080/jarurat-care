@@ -1,4 +1,4 @@
-package org.miniprojecttwo.jaruratcare;
+package org.miniprojecttwo.jaruratcare.controller;
 
 import org.junit.jupiter.api.Test;
 import org.miniprojecttwo.jaruratcare.service.WhatsAppService;
